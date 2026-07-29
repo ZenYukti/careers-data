@@ -1,45 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-07-29T18:42:52.785178+00:00",
-    "jobs": [
-        {
-            "company": "Google",
-            "role": "Software Application Development Apprenticeship - March 2027 Start",
-            "location": "Bengaluru, India +3",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/123243602355593926",
-            "employment_type": "Internship",
-            "eligibility": "2026 Batch Passout",
-            "stipend": "1-1.5L",
-            "deadline": "August 3rd, 2026",
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-28T09:54:22.528848Z"
-        },
-        {
-            "company": "RedHat",
-            "role": "Software Engineering Intern",
-            "location": "Pune / Bangalore (On-site)",
-            "apply_url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560?src=ZenYuktiDiscordServer",
-            "employment_type": "Internship",
-            "eligibility": "2027 Batch Passout",
-            "stipend": "~₹80,000 - ₹1.3L/month",
-            "deadline": null,
-            "description": "Stipend is estimated based on previous Red Hat India intern compensation; not officially disclosed",
-            "priority": "Normal",
-            "discovered_at": "2026-07-28T14:43:32.779178Z"
-        },
-        {
-            "company": "ZenYukti",
-            "role": "test",
-            "location": "gzb",
-            "apply_url": "www.zenyukti.in",
-            "employment_type": "Internship",
-            "eligibility": "test",
-            "stipend": "null",
-            "deadline": "test",
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-29T18:42:52.785170Z"
-        }
-    ]
+    "updated_at": "2026-07-29T18:44:30.013878+00:00",
+    "jobs": []
 }
