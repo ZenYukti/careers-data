@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-08-01T08:48:22.253544+00:00",
-    "jobs": [
-        {
-            "company": "ZenYukti",
-            "role": "test-C",
-            "location": "Ghaziabad",
-            "apply_url": "https://www.ayushhardeniya.me",
-            "employment_type": "Internship",
-            "eligibility": "trial",
-            "stipend": "null",
-            "deadline": "trial",
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-08-01T08:48:22.253529Z"
-        }
-    ]
+    "updated_at": "2026-08-01T08:49:14.604440+00:00",
+    "jobs": []
 }
