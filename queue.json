@@ -1,32 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-07-29T19:02:52.371358+00:00",
-    "jobs": [
-        {
-            "company": "ZenYukti",
-            "role": "test-A",
-            "location": "delhi",
-            "apply_url": "https://www.zenyukti.in",
-            "employment_type": "Internship",
-            "eligibility": "test",
-            "stipend": "null",
-            "deadline": "test",
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-29T19:02:16.117232Z"
-        },
-        {
-            "company": "ZenYukti",
-            "role": "test-B",
-            "location": "Ghaziabad",
-            "apply_url": "https://www.ayushhardeniya.me",
-            "employment_type": "Internship",
-            "eligibility": "trial",
-            "stipend": "null",
-            "deadline": "trial",
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-29T19:02:52.371349Z"
-        }
-    ]
+    "updated_at": "2026-08-01T07:08:08.641255+00:00",
+    "jobs": []
 }
