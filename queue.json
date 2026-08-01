@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-08-01T09:54:23.409657+00:00",
-    "jobs": [
-        {
-            "company": "Google",
-            "role": "Logo Cache Test",
-            "location": "Remote",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/123243602355593926",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-08-01T09:54:23.409645Z"
-        }
-    ]
+    "updated_at": "2026-08-01T09:55:27.129652+00:00",
+    "jobs": []
 }
