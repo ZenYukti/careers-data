@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-08-01T15:07:01.901268+00:00",
-    "jobs": [
-        {
-            "company": "Amazon",
-            "role": "SDE I Intern , Amazon University Talent Acquisition",
-            "location": "Bangalore/Hyderabad/Pune +3",
-            "apply_url": "https://www.amazon.jobs/en/jobs/10488368/sde-i-intern-amazon-university-talent-acquisition?src=ZenYuktiDiscordServer",
-            "employment_type": "Internship",
-            "eligibility": "2027 Batch",
-            "stipend": null,
-            "deadline": null,
-            "description": "Duration: 6 Months (Jan – Jun 2027)",
-            "priority": "Normal",
-            "discovered_at": "2026-08-01T15:07:01.901255Z"
-        }
-    ]
+    "updated_at": "2026-08-02T07:13:10.792301+00:00",
+    "jobs": []
 }
