@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-07-31T15:36:30.307720+00:00",
+    "updated_at": "2026-08-05T15:36:51.869970+00:00",
     "jobs": [
         {
             "company": "Stripe",
@@ -29,17 +29,17 @@
             "discovered_at": "2026-07-26T11:56:09.675951Z"
         },
         {
-            "company": "Amazon",
-            "role": "Software Development Engineer I FTC",
+            "company": "Microsoft",
+            "role": "Software Engineer",
             "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10488045/apply",
-            "employment_type": "Internship",
+            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556955107",
+            "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-07-31T15:36:30.306297Z"
+            "discovered_at": "2026-08-05T15:36:51.868288Z"
         },
         {
             "company": "Google",
@@ -69,19 +69,6 @@
         },
         {
             "company": "Amazon",
-            "role": "SDE II - Time & Pay Innovation",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10473952/apply",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-31T15:36:30.306327Z"
-        },
-        {
-            "company": "Amazon",
             "role": "Software Dev Engineer - Amazon Pay - Merchant Tech - Merchant Tech",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10469779/apply",
@@ -92,19 +79,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306337Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Development Engineer I - Amazon Payments",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10472171/apply",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-26T11:56:09.950625Z"
         },
         {
             "company": "Amazon",
@@ -134,6 +108,19 @@
         },
         {
             "company": "Amazon",
+            "role": "SDE-1 - IN Pay Cards Core Processing - IN Payments - Cards Core Processing",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10463381/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-05T15:36:51.868509Z"
+        },
+        {
+            "company": "Amazon",
             "role": "Software Development Engineer",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10452413/apply",
@@ -144,19 +131,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306379Z"
-        },
-        {
-            "company": "Google",
-            "role": "Silicon Design For Test Engineer - Google Cloud",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/102753418266714822",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-31T15:36:30.306383Z"
         },
         {
             "company": "Amazon",
@@ -225,19 +199,6 @@
         },
         {
             "company": "Amazon",
-            "role": "Software Dev Engineer I FTC - Amazon Pay",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10450000/apply",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-26T11:56:09.950656Z"
-        },
-        {
-            "company": "Amazon",
             "role": "SDE-1",
             "location": "Hyderabad, India",
             "apply_url": "https://www.amazon.jobs/jobs/10424932/apply",
@@ -261,19 +222,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306533Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Development Engineer - Delivery Choices",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10408400/apply",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-31T15:36:30.306535Z"
         }
     ]
 }
