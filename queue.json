@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-06T08:47:05.249394+00:00",
+    "updated_at": "2026-08-06T09:18:13.214437+00:00",
     "jobs": [
         {
             "company": "Branch International",
@@ -14,6 +14,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-08-06T08:47:05.249380Z"
+        },
+        {
+            "company": "Indian Army",
+            "role": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING Intern",
+            "location": "Delhi",
+            "apply_url": "https://internship.aicte-india.org/internship-details.php?uid=SU5URVJOU0hJUF8xNzg1ODM0MjMxNmE3MWFhZjc5YTgwYg==&level=MTg=",
+            "employment_type": "Full-time",
+            "eligibility": "2027 Batch",
+            "stipend": "Up to ₹ 75,000",
+            "deadline": "19-Aug-2026",
+            "description": null,
+            "priority": "High",
+            "discovered_at": "2026-08-06T09:18:13.214427Z"
         }
     ]
 }
