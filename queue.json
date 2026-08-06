@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-06T09:27:19.177599+00:00",
+    "updated_at": "2026-08-06T09:29:31.321730+00:00",
     "jobs": [
         {
             "company": "Branch International",
@@ -53,6 +53,19 @@
             "description": "Duration: 75 Days, Start Date: 01-Sep-2026",
             "priority": "Normal",
             "discovered_at": "2026-08-06T09:27:19.177591Z"
+        },
+        {
+            "company": "Indian Army",
+            "role": "SOFTWARE & MOBILE APP DEVELOPMENT",
+            "location": "Delhi",
+            "apply_url": "https://internship.aicte-india.org/internship-details.php?uid=SU5URVJOU0hJUF8xNzg0NzA0NDEyNmE2MDZkOWM5NmI1Yw==&level=MTg=",
+            "employment_type": "Full-time",
+            "eligibility": "2026 & 2027 Batch",
+            "stipend": "Up to ₹ 75,000",
+            "deadline": "08-Aug-2026",
+            "description": "Duration: 75 Days, Start Date: 01-Sep-2026",
+            "priority": "High",
+            "discovered_at": "2026-08-06T09:29:31.321720Z"
         }
     ]
 }
