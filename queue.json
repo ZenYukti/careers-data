@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-05T15:49:24.049222+00:00",
-    "jobs": []
+    "updated_at": "2026-08-06T08:47:05.249394+00:00",
+    "jobs": [
+        {
+            "company": "Branch International",
+            "role": "Software Engineer Intern",
+            "location": "Remote",
+            "apply_url": "https://branchinternational.applytojob.com/apply/GQyFYPULmb/Software-Engineer-Intern?src=ZenYuktiDiscordServer",
+            "employment_type": "Internship",
+            "eligibility": "2027 Batch",
+            "stipend": "50K - 70K (estimated)",
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-06T08:47:05.249380Z"
+        }
+    ]
 }
