@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-07T18:23:48.976329+00:00",
+    "updated_at": "2026-08-07T18:33:34.691817+00:00",
     "jobs": [
         {
             "company": "Atlan",
@@ -14,6 +14,19 @@
             "description": "Referral only opportunity, no application form is available.",
             "priority": "High",
             "discovered_at": "2026-08-07T18:23:48.976316Z"
+        },
+        {
+            "company": "Qualcomm",
+            "role": "Associate Software Engineer",
+            "location": "Hyderabad, Bangalore, Chennai, Noida",
+            "apply_url": "https://careers.qualcomm.com/careers/job/446719784235?src=ZenYuktiDiscordServer",
+            "employment_type": "New Grad",
+            "eligibility": "2027 Batch",
+            "stipend": "10-20 LPA",
+            "deadline": null,
+            "description": "Job ID: 3094023",
+            "priority": "Normal",
+            "discovered_at": "2026-08-07T18:33:34.691805Z"
         }
     ]
 }
