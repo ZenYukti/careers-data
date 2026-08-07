@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-05T15:36:51.869970+00:00",
+    "updated_at": "2026-08-07T05:56:01.805651+00:00",
     "jobs": [
         {
             "company": "Stripe",
@@ -55,19 +55,6 @@
             "discovered_at": "2026-07-31T15:36:30.306299Z"
         },
         {
-            "company": "Google",
-            "role": "Software Application Development Apprenticeship - March 2027 Start",
-            "location": "Bengaluru, India +3",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/123243602355593926",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-26T11:56:09.950609Z"
-        },
-        {
             "company": "Amazon",
             "role": "Software Dev Engineer - Amazon Pay - Merchant Tech - Merchant Tech",
             "location": "Bengaluru, India",
@@ -79,6 +66,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306337Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Development Engineer I - Amazon Payments",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10472171/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-07T05:56:01.804488Z"
         },
         {
             "company": "Amazon",
@@ -105,19 +105,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-26T11:56:09.950642Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - IN Pay Cards Core Processing - IN Payments - Cards Core Processing",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10463381/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-08-05T15:36:51.868509Z"
         },
         {
             "company": "Amazon",
