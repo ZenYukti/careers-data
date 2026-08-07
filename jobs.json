@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-07T05:56:01.805651+00:00",
+    "updated_at": "2026-08-07T14:30:50.664741+00:00",
     "jobs": [
         {
             "company": "Stripe",
@@ -56,6 +56,19 @@
         },
         {
             "company": "Amazon",
+            "role": "Software Dev Engineer II - Paragon",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10495288/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-07T14:30:50.663216Z"
+        },
+        {
+            "company": "Amazon",
             "role": "Software Dev Engineer - Amazon Pay - Merchant Tech - Merchant Tech",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10469779/apply",
@@ -66,6 +79,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306337Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Dev Engineer II",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10495277/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-07T14:30:50.663279Z"
         },
         {
             "company": "Amazon",
@@ -134,19 +160,6 @@
         },
         {
             "company": "Amazon",
-            "role": "Software Development Engineer - Contractor - RoW SC Tech",
-            "location": "Gurugram, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10460660/apply",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-31T15:36:30.306392Z"
-        },
-        {
-            "company": "Amazon",
             "role": "Software development Engineer",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10448634/apply",
@@ -183,19 +196,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306500Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10424932/apply",
-            "employment_type": "Internship",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-07-31T15:36:30.306527Z"
         },
         {
             "company": "Amazon",
