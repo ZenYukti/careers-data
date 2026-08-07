@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-07T14:36:01.429508+00:00",
-    "jobs": []
+    "updated_at": "2026-08-07T18:23:48.976329+00:00",
+    "jobs": [
+        {
+            "company": "Atlan",
+            "role": "AI Engineer Intern",
+            "location": "Remote + Offsites",
+            "apply_url": "https://intern.at.atlan.com/",
+            "employment_type": "Internship",
+            "eligibility": "2026 & 2027 Batch",
+            "stipend": null,
+            "deadline": "6 - 18 August 2026 {Referral Window}",
+            "description": "Referral only opportunity, no application form is available.",
+            "priority": "High",
+            "discovered_at": "2026-08-07T18:23:48.976316Z"
+        }
+    ]
 }
