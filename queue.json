@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-08T05:22:36.599342+00:00",
-    "jobs": []
+    "updated_at": "2026-08-09T09:21:40.480771+00:00",
+    "jobs": [
+        {
+            "company": "Texas Instruments",
+            "role": "Software Database Engineer",
+            "location": "Bangalore, India",
+            "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010421?src=ZenYuktiDiscordServer",
+            "employment_type": "Full-time",
+            "eligibility": "2026 Batch",
+            "stipend": null,
+            "deadline": null,
+            "description": "Job Identification: 25010421",
+            "priority": "Normal",
+            "discovered_at": "2026-08-09T09:21:40.480758Z"
+        }
+    ]
 }
