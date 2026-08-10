@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-09T14:17:22.499501+00:00",
-    "jobs": []
+    "updated_at": "2026-08-10T04:28:21.450587+00:00",
+    "jobs": [
+        {
+            "company": "Intuit",
+            "role": "Intern, Software Engineering",
+            "location": "Bangalore, India",
+            "apply_url": "https://jobs.intuit.com/job/-/-/27595/98962244160?src=ZenYuktiDiscordServer",
+            "employment_type": "Internship",
+            "eligibility": "2027, 2028 batch",
+            "stipend": "₹1.0 – ₹1.2 lakh/month",
+            "deadline": "Can expire in hours",
+            "description": "Job ID: 22946",
+            "priority": "High",
+            "discovered_at": "2026-08-10T04:28:21.450575Z"
+        }
+    ]
 }
