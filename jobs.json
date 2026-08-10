@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-07T14:30:50.664741+00:00",
+    "updated_at": "2026-08-10T14:35:20.201231+00:00",
     "jobs": [
         {
             "company": "Stripe",
@@ -29,17 +29,17 @@
             "discovered_at": "2026-07-26T11:56:09.675951Z"
         },
         {
-            "company": "Microsoft",
-            "role": "Software Engineer",
+            "company": "Amazon",
+            "role": "Software Development Engineer I FTC",
             "location": "Hyderabad, India",
-            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556955107",
+            "apply_url": "https://www.amazon.jobs/jobs/10488045/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-08-05T15:36:51.868288Z"
+            "discovered_at": "2026-08-10T14:35:20.199815Z"
         },
         {
             "company": "Google",
