@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-08-13T08:22:16.719002+00:00",
-    "jobs": [
-        {
-            "company": "Amazon",
-            "role": "Associate, Quality Services",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/en/jobs/10487965/associate-quality-services-auto-software-smart-vehicles-amazon-smart-vehicles?src=ZenYuktiDiscordServer",
-            "employment_type": "Internship",
-            "eligibility": "- Bachelor's degree & Knowledge of QA methodology and tools",
-            "stipend": null,
-            "deadline": null,
-            "description": "Job ID: 10487965 | ADCI - Karnataka",
-            "priority": "Normal",
-            "discovered_at": "2026-08-13T08:22:16.718990Z"
-        }
-    ]
+    "updated_at": "2026-08-14T06:03:27.394970+00:00",
+    "jobs": []
 }
