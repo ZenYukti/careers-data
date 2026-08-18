@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-14T14:29:38.402109+00:00",
+    "updated_at": "2026-08-18T14:05:14.425304+00:00",
     "jobs": [
         {
             "company": "Stripe",
@@ -27,6 +27,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-26T11:56:09.675951Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer II - Android",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/108673500792660678",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-18T14:05:14.423727Z"
         },
         {
             "company": "Amazon",
