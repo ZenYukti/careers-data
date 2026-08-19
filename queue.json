@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-18T14:10:53.825006+00:00",
-    "jobs": []
+    "updated_at": "2026-08-19T16:42:00.470427+00:00",
+    "jobs": [
+        {
+            "company": "Optiver",
+            "role": "Quantitative Research Internship (2027 Start)",
+            "location": "Amsterdam, Netherlands",
+            "apply_url": "https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/?src=ZenYuktiDiscordServer",
+            "employment_type": "Internship",
+            "eligibility": "2028 Batch",
+            "stipend": "Highly competitive internship compensation",
+            "deadline": "2028 batch, penultimate-year students in Mathematics, Statistics, Computer Science, Physics, or related STEM fields",
+            "description": "Quantitative research internship focused on mathematics, probability, statistics, market data, quantitative analysis, systematic trading strategies, and machine learning. For applicants based in India, the entry route is through the placement office internship hiring season (July/August).",
+            "priority": "Normal",
+            "discovered_at": "2026-08-19T16:42:00.470410Z"
+        }
+    ]
 }
