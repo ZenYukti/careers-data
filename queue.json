@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-20T14:18:01.125019+00:00",
-    "jobs": []
+    "updated_at": "2026-08-20T22:00:22.734246+00:00",
+    "jobs": [
+        {
+            "company": "Salesforce",
+            "role": "Software Engineering AMTS",
+            "location": "Hyderabad / Bangalore, India",
+            "apply_url": "https://www.salesforce.com/company/careers/jobs/JR356580/software-engineering-amts?src=ZenYuktiDiscordServer",
+            "employment_type": "Full-time",
+            "eligibility": "2027 Batch Graduates",
+            "stipend": "1,10,000+ per month (expected)",
+            "deadline": null,
+            "description": "JR: 356580",
+            "priority": "Normal",
+            "discovered_at": "2026-08-20T22:00:22.734233Z"
+        }
+    ]
 }
