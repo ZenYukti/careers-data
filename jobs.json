@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-08-18T14:05:14.425304+00:00",
+    "updated_at": "2026-08-20T14:07:13.826941+00:00",
     "jobs": [
         {
             "company": "Stripe",
@@ -30,16 +30,42 @@
         },
         {
             "company": "Google",
-            "role": "Software Engineer II - Android",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/108673500792660678",
+            "role": "Software Engineer II - Full Stack",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/89363826046051014",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-08-18T14:05:14.423727Z"
+            "discovered_at": "2026-08-20T14:07:13.826427Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - YouTube",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/98526331318215366",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-20T14:07:13.826437Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - Search",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/109366416456458950",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-20T14:07:13.826441Z"
         },
         {
             "company": "Amazon",
@@ -66,19 +92,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-31T15:36:30.306299Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Dev Engineer II - Paragon",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10495288/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-08-07T14:30:50.663216Z"
         },
         {
             "company": "Amazon",
@@ -109,15 +122,15 @@
         {
             "company": "Amazon",
             "role": "Software Dev Engineer I FTC",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10481100/apply",
-            "employment_type": "Internship",
+            "location": "Gurugram, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10470829/apply",
+            "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-07-26T11:56:09.950642Z"
+            "discovered_at": "2026-08-20T14:07:13.826613Z"
         },
         {
             "company": "Amazon",
