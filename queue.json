@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-21T05:07:56.309574+00:00",
-    "jobs": []
+    "updated_at": "2026-08-23T10:34:27.285750+00:00",
+    "jobs": [
+        {
+            "company": "Amazon",
+            "role": "Amazon Future Engineer Intern, Amazon University Talent Acquisition",
+            "location": "Bangaluru/Chennai/Delhi, India",
+            "apply_url": "https://www.amazon.jobs/en/jobs/3207507/amazon-future-engineer-intern-amazon-university-talent-acquisition?src=ZenYuktiDiscordServer",
+            "employment_type": "Internship",
+            "eligibility": "2029 Batch Students",
+            "stipend": "1.1 Lakhs per month",
+            "deadline": null,
+            "description": "Must be a current Amazon Future Engineer scholarship recipient.",
+            "priority": "Normal",
+            "discovered_at": "2026-08-23T10:34:27.285735Z"
+        }
+    ]
 }
