@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-08-25T12:17:05.291943+00:00",
-    "jobs": [
-        {
-            "company": "LinkedIn",
-            "role": "Software Engineering Intern",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.linkedin.com/jobs/view/4458724587?utm_source=zenyukti",
-            "employment_type": "Internship",
-            "eligibility": "2028 Batch Students",
-            "stipend": "80K - 1L per month",
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-08-25T12:17:05.291928Z"
-        }
-    ]
+    "updated_at": "2026-08-25T14:24:38.282737+00:00",
+    "jobs": []
 }
