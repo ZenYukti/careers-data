@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-25T14:24:38.282737+00:00",
-    "jobs": []
+    "updated_at": "2026-08-26T15:47:05.530255+00:00",
+    "jobs": [
+        {
+            "company": "Qualcomm",
+            "role": "Interim Intern_OneIT",
+            "location": "Bangalore/Hyderabad, India",
+            "apply_url": "https://careers.qualcomm.com/careers/job/446720205847?utm_source=zenyukti",
+            "employment_type": "Internship",
+            "eligibility": "2026 Batch Passout",
+            "stipend": null,
+            "deadline": null,
+            "description": "Job ID: 3094693",
+            "priority": "Normal",
+            "discovered_at": "2026-08-26T15:47:05.530243Z"
+        }
+    ]
 }
