@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-26T16:07:49.870578+00:00",
-    "jobs": []
+    "updated_at": "2026-08-27T12:51:43.983086+00:00",
+    "jobs": [
+        {
+            "company": "Tesla",
+            "role": "Embedded Software Engineer, AI Platforms (Fall 2026)",
+            "location": "Palo Alto, California, USA",
+            "apply_url": "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-ai-platforms-fall-2026-269819?utm_source=zenyukti",
+            "employment_type": "Internship",
+            "eligibility": "2027 Batch Students",
+            "stipend": "~$28.8K (~₹27.5 Lakhs) for 12 weeks + benefits (verified)",
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-27T12:51:43.983071Z"
+        }
+    ]
 }
