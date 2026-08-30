@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-08-28T23:11:20.395329+00:00",
-    "jobs": []
+    "updated_at": "2026-08-30T12:05:37.536880+00:00",
+    "jobs": [
+        {
+            "company": "Salesforce",
+            "role": "Summer 2027 Intern - Software Engineer",
+            "location": "Bangalore / Hyderabad, India",
+            "apply_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715?utm_source=zenyukti",
+            "employment_type": "Internship",
+            "eligibility": "Class of 2028",
+            "stipend": "Upto 1.1 Lakh per month (expected)",
+            "deadline": null,
+            "description": "reposted: apply asap if you missed it earlier",
+            "priority": "Normal",
+            "discovered_at": "2026-08-30T12:05:37.536869Z"
+        }
+    ]
 }
