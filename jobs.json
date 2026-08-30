@@ -1,7 +1,20 @@
 {
     "version": 1,
-    "updated_at": "2026-08-28T23:07:48.830514+00:00",
+    "updated_at": "2026-08-30T17:39:27.267319+00:00",
     "jobs": [
+        {
+            "company": "Microsoft",
+            "role": "Software Engineering INTERN",
+            "location": "India",
+            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
+            "employment_type": "Internship",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-07-26T11:56:09.675951Z"
+        },
         {
             "company": "Stripe",
             "role": "Software Engineer - Intern",
@@ -16,17 +29,30 @@
             "discovered_at": "2026-07-26T11:56:09.675931Z"
         },
         {
-            "company": "Microsoft",
-            "role": "Software Engineering INTERN",
-            "location": "India",
-            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
-            "employment_type": "Internship",
+            "company": "Google",
+            "role": "Software Engineer II - Corp Eng",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/138674961899233990",
+            "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-07-26T11:56:09.675951Z"
+            "discovered_at": "2026-08-30T17:39:27.265749Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer II - Android",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/77784007952999110",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-30T17:39:27.265772Z"
         },
         {
             "company": "Google",
@@ -53,6 +79,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-08-28T23:07:48.828840Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - Fixed Term Contract",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10516483/apply",
+            "employment_type": "Contract",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-30T17:39:27.265824Z"
         },
         {
             "company": "Google",
