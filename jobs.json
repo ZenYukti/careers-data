@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-09-02T17:14:11.795048+00:00",
+    "updated_at": "2026-09-03T17:05:44.211532+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -43,6 +43,19 @@
         },
         {
             "company": "Google",
+            "role": "Software Engineer II - Payments",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/115967564294562502",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-01T17:22:17.673823Z"
+        },
+        {
+            "company": "Google",
             "role": "Software Engineer - Search",
             "location": "Bengaluru, India",
             "apply_url": "https://www.google.com/about/careers/applications/jobs/results/102632687272895174",
@@ -56,16 +69,16 @@
         },
         {
             "company": "Google",
-            "role": "Software Engineer II - Payments",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/115967564294562502",
+            "role": "Software Engineer II - Corp Eng",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/138674961899233990",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-09-01T17:22:17.673823Z"
+            "discovered_at": "2026-08-30T17:39:27.265749Z"
         },
         {
             "company": "Google",
@@ -81,17 +94,56 @@
             "discovered_at": "2026-08-30T17:39:27.265772Z"
         },
         {
-            "company": "Google",
-            "role": "Software Engineer II - Corp Eng",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/138674961899233990",
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525641/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-08-30T17:39:27.265749Z"
+            "discovered_at": "2026-09-03T17:05:44.060857Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525643/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-03T17:05:44.060861Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525642/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-03T17:05:44.060865Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Devlopment Engineer I - Amazon Rewards",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10523331/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-03T17:05:44.060870Z"
         },
         {
             "company": "Amazon",
