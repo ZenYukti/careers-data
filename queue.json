@@ -1,32 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-09-16T14:15:31.508227+00:00",
-    "jobs": [
-        {
-            "company": "MongoDB",
-            "role": "2027 - Winter Software Engineer Intern, Gurugram",
-            "location": "Gurugram, Haryana",
-            "apply_url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7989832?utm_source=zenyukti",
-            "employment_type": "Internship",
-            "eligibility": "2027, 2028 Batch",
-            "stipend": "Not sure, but should be around 75K - 90K per month",
-            "deadline": null,
-            "description": "Req ID: 2273466429",
-            "priority": "Normal",
-            "discovered_at": "2026-09-16T13:13:58.749488Z"
-        },
-        {
-            "company": "Sprinklr",
-            "role": "Software Engineer Intern",
-            "location": "Gurgaon, Haryana, India",
-            "apply_url": "https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/Intern_113497-JOB?utm_source=zenyukti",
-            "employment_type": "Internship",
-            "eligibility": "2027 Batch",
-            "stipend": null,
-            "deadline": "September 30, 2026 (13 days left to apply)",
-            "description": "Posted Today. (113497-JOB)",
-            "priority": "Normal",
-            "discovered_at": "2026-09-16T14:15:31.508219Z"
-        }
-    ]
+    "updated_at": "2026-09-16T15:08:51.129930+00:00",
+    "jobs": []
 }
