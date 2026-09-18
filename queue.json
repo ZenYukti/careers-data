@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-09-18T17:18:55.028165+00:00",
-    "jobs": []
+    "updated_at": "2026-09-18T19:24:51.878298+00:00",
+    "jobs": [
+        {
+            "company": "Amazon",
+            "role": "SDE Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+            "location": "Bengaluru, KA, India",
+            "apply_url": "https://www.amazon.jobs/en/jobs/10499554/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=zenyukti",
+            "employment_type": "Internship",
+            "eligibility": "2027 Batch Only",
+            "stipend": "1,10,000+ per month (expected)",
+            "deadline": null,
+            "description": "Job ID: 10499554",
+            "priority": "Normal",
+            "discovered_at": "2026-09-18T19:24:51.878286Z"
+        }
+    ]
 }
