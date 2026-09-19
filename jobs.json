@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-09-18T17:08:05.079785+00:00",
+    "updated_at": "2026-09-19T16:38:16.493332+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -43,16 +43,29 @@
         },
         {
             "company": "Amazon",
-            "role": "Software Dev Engineer I FTC",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10551515/apply",
+            "role": "SDE-1 - Expansions Tech and Product",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10553343/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-09-18T17:08:04.838769Z"
+            "discovered_at": "2026-09-19T16:38:16.239374Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - Search",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/122710813273137862",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-09T17:12:29.427490Z"
         },
         {
             "company": "Adobe",
@@ -69,16 +82,16 @@
         },
         {
             "company": "Google",
-            "role": "Software Engineer - Search",
+            "role": "Site Reliability Engineer",
             "location": "Bengaluru, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/122710813273137862",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/87706967249691334",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-09-09T17:12:29.427490Z"
+            "discovered_at": "2026-09-08T17:19:19.726799Z"
         },
         {
             "company": "Google",
@@ -105,19 +118,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-09T17:12:29.427502Z"
-        },
-        {
-            "company": "Google",
-            "role": "Site Reliability Engineer",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/87706967249691334",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-08T17:19:19.726799Z"
         },
         {
             "company": "Google",
@@ -188,14 +188,14 @@
             "company": "Amazon",
             "role": "SDE-1 - FTC",
             "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
+            "apply_url": "https://www.amazon.jobs/jobs/10525641/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-09-09T17:12:29.427749Z"
+            "discovered_at": "2026-09-03T17:05:44.060857Z"
         },
         {
             "company": "Amazon",
@@ -214,14 +214,14 @@
             "company": "Amazon",
             "role": "SDE-1 - FTC",
             "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525641/apply",
+            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-09-03T17:05:44.060857Z"
+            "discovered_at": "2026-09-09T17:12:29.427749Z"
         },
         {
             "company": "Amazon",
