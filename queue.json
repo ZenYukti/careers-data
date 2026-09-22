@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-09-21T18:53:28.509411+00:00",
-    "jobs": []
+    "updated_at": "2026-09-22T15:16:06.036913+00:00",
+    "jobs": [
+        {
+            "company": "Booking Holdings — India Center of Excellence",
+            "role": "Early-Career Technology Internship",
+            "location": "Bangalore, India — In-person",
+            "apply_url": "https://booking.hackerearth.com/",
+            "employment_type": "Internship",
+            "eligibility": "2027 Batch Only",
+            "stipend": "₹75,000 per month",
+            "deadline": "8 October, 2026",
+            "description": "Complete details are shared in the #hackathons-info channel.",
+            "priority": "High",
+            "discovered_at": "2026-09-22T15:16:06.036901Z"
+        }
+    ]
 }
