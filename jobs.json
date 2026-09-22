@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-09-21T18:50:46.571338+00:00",
+    "updated_at": "2026-09-22T17:41:04.663938+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -53,6 +53,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-19T16:38:16.239374Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Dev Engineer I FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10551515/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-22T17:41:04.453597Z"
         },
         {
             "company": "Adobe",
@@ -186,6 +199,32 @@
         },
         {
             "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-09T17:12:29.427749Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525640/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-08T17:19:19.726915Z"
+        },
+        {
+            "company": "Amazon",
             "role": "Software Devlopment Engineer I - Amazon Rewards",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10523331/apply",
@@ -209,32 +248,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-03T17:05:44.060857Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525640/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-08T17:19:19.726915Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-09T17:12:29.427749Z"
         },
         {
             "company": "Amazon",
@@ -316,19 +329,6 @@
         },
         {
             "company": "Amazon",
-            "role": "Software Dev Engineer I FTC",
-            "location": "Gurugram, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10470829/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-08-20T14:07:13.826613Z"
-        },
-        {
-            "company": "Amazon",
             "role": "Software Dev Engineer II - Paragon",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10528516/apply",
@@ -343,6 +343,19 @@
         {
             "company": "Amazon",
             "role": "Software Dev Engineer I FTC",
+            "location": "Gurugram, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10470829/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-08-20T14:07:13.826613Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Dev Engineer I FTC",
             "location": "Hyderabad, India",
             "apply_url": "https://www.amazon.jobs/jobs/10481100/apply",
             "employment_type": "Full-time",
@@ -352,19 +365,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-10T17:03:20.009037Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10495532/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-02T17:14:10.705378Z"
         },
         {
             "company": "Collinear AI",
