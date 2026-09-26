@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-09-26T16:38:15.036796+00:00",
-    "jobs": []
+    "updated_at": "2026-09-26T18:15:24.175622+00:00",
+    "jobs": [
+        {
+            "company": "Rubrik",
+            "role": "Software Engineer - Winter Intern",
+            "location": "Bangalore, India Office",
+            "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166523?utm_source=zenyukti",
+            "employment_type": "Internship",
+            "eligibility": "2027 Batch",
+            "stipend": "1.5+ Lakhs per month, expected",
+            "deadline": null,
+            "description": "Job ID: 8166523",
+            "priority": "Normal",
+            "discovered_at": "2026-09-26T18:15:24.175609Z"
+        }
+    ]
 }
