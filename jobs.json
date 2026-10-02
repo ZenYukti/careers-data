@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-09-30T18:30:14.320827+00:00",
+    "updated_at": "2026-10-02T18:34:51.553770+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -40,6 +40,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-26T11:56:09.675931Z"
+        },
+        {
+            "company": "Microsoft",
+            "role": "Software Engineering",
+            "location": "Bengaluru, India",
+            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556863192",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-02T18:34:51.316967Z"
         },
         {
             "company": "Google",
@@ -175,32 +188,6 @@
             "company": "Amazon",
             "role": "SDE-1 - FTC",
             "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525642/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-03T17:05:44.060865Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-09T17:12:29.427749Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10525640/apply",
             "employment_type": "Full-time",
             "eligibility": null,
@@ -209,6 +196,32 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-08T17:19:19.726915Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525643/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-03T17:05:44.060861Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525642/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-03T17:05:44.060865Z"
         },
         {
             "company": "Amazon",
@@ -227,14 +240,14 @@
             "company": "Amazon",
             "role": "SDE-1 - FTC",
             "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525643/apply",
+            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-09-03T17:05:44.060861Z"
+            "discovered_at": "2026-09-09T17:12:29.427749Z"
         },
         {
             "company": "Amazon",
