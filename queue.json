@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-10-02T10:32:50.376384+00:00",
-    "jobs": [
-        {
-            "company": "Hackerrank",
-            "role": "Software Development Engineer Intern",
-            "location": "Bangalore, OnSite",
-            "apply_url": "https://www.hackerrank.com/careers/job?id=8229735&utm_source=zenyukti&utm_medium=discord",
-            "employment_type": "Internship",
-            "eligibility": "2027 & 2028 Batch",
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-02T10:32:50.376371Z"
-        }
-    ]
+    "updated_at": "2026-10-02T10:42:25.345382+00:00",
+    "jobs": []
 }
