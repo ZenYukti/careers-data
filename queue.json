@@ -1,19 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-10-04T14:23:54.106545+00:00",
-    "jobs": [
-        {
-            "company": "Amazon",
-            "role": "SDE I Intern , Amazon University Talent Acquisition",
-            "location": "PAN India, OnSite",
-            "apply_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition?utm_source=zenyukti&utm_medium=discord",
-            "employment_type": "Internship",
-            "eligibility": "2027 Batch",
-            "stipend": "INR 80,000 per month + ~ INR 34000 / month (relocation stipend)",
-            "deadline": null,
-            "description": "Duration: January - June 2027",
-            "priority": "Normal",
-            "discovered_at": "2026-10-04T14:23:54.106532Z"
-        }
-    ]
+    "updated_at": "2026-10-04T14:29:57.198167+00:00",
+    "jobs": []
 }
