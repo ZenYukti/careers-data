@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-07T11:18:30.308609+00:00",
-    "jobs": []
+    "updated_at": "2026-10-08T18:46:46.178397+00:00",
+    "jobs": [
+        {
+            "company": "Angel One",
+            "role": "Agentic AI Intern",
+            "location": "Bengaluru",
+            "apply_url": "https://angelone.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJsaW5rZWRpbiIsInJlcUlkIjo3MTg5LCJyZXF1ZXN0ZXIiOnsiaWQiOiIiLCJjb2RlIjoiIiwibmFtZSI6IiJ9LCJwYWdlIjoiY2FyZWVycyIsImJ1ZmlsdGVyIjotMX0%3D&utm_source=zenyukti&utm_medium=discord",
+            "employment_type": "Internship",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-08T18:46:46.178384Z"
+        }
+    ]
 }
