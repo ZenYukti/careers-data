@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-09T18:54:16.441397+00:00",
+    "updated_at": "2026-10-10T17:55:41.773911+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -69,6 +69,19 @@
         },
         {
             "company": "Amazon",
+            "role": "Front-End Engineer II",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10575321/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-10T17:55:41.560031Z"
+        },
+        {
+            "company": "Amazon",
             "role": "Software Dev Engineer I FTC",
             "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10551515/apply",
@@ -120,19 +133,6 @@
             "discovered_at": "2026-09-09T17:12:29.427490Z"
         },
         {
-            "company": "Google",
-            "role": "Site Reliability Engineer",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/87706967249691334",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-08T17:19:19.726799Z"
-        },
-        {
             "company": "Amazon",
             "role": "Software Dev Engineer I - L4 FTC - IESP Merchant Tech",
             "location": "Bengaluru, India",
@@ -170,32 +170,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-09T17:12:29.427749Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525640/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-08T17:19:19.726915Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525641/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-03T17:05:44.060857Z"
         },
         {
             "company": "Amazon",
@@ -274,19 +248,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-04T16:55:21.800616Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Dev Engineer I FTC",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10481100/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-10T17:03:20.009037Z"
         },
         {
             "company": "Collinear AI",
