@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-10T17:55:41.773911+00:00",
+    "updated_at": "2026-10-13T19:54:52.305288+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -43,6 +43,19 @@
         },
         {
             "company": "Google",
+            "role": "Software Engineer II - Google Cloud",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/77695403851424454",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-13T19:54:52.021454Z"
+        },
+        {
+            "company": "Google",
             "role": "Software Engineer II - Infrastructure",
             "location": "Bengaluru, India",
             "apply_url": "https://www.google.com/about/careers/applications/jobs/results/96710280632771270",
@@ -79,6 +92,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-10-10T17:55:41.560031Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10561468/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-13T19:54:52.021513Z"
         },
         {
             "company": "Amazon",
@@ -162,19 +188,6 @@
             "company": "Amazon",
             "role": "SDE-1 - FTC",
             "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-09T17:12:29.427749Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "SDE-1 - FTC",
-            "location": "Bengaluru, India",
             "apply_url": "https://www.amazon.jobs/jobs/10525643/apply",
             "employment_type": "Full-time",
             "eligibility": null,
@@ -183,6 +196,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-03T17:05:44.060861Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "SDE-1 - FTC",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10525636/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-09-09T17:12:29.427749Z"
         },
         {
             "company": "Amazon",
