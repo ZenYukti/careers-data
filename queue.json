@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-10T17:58:37.421606+00:00",
-    "jobs": []
+    "updated_at": "2026-10-13T11:24:09.887157+00:00",
+    "jobs": [
+        {
+            "company": "NVIDIA",
+            "role": "CPU Compiler Intern - 2027",
+            "location": "Pune & Bengaluru, India",
+            "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India%2C-Pune/CPU-Compiler-Intern---2027_JR2027260-1?utm_source=zenyukti&utm_medium=discord",
+            "employment_type": "Full-time",
+            "eligibility": "2027, 2028 batch",
+            "stipend": "₹80,000/month expected",
+            "deadline": null,
+            "description": "Job ID: JR2027260",
+            "priority": "Normal",
+            "discovered_at": "2026-10-13T11:24:09.887145Z"
+        }
+    ]
 }
