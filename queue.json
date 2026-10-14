@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-14T09:41:26.188972+00:00",
-    "jobs": []
+    "updated_at": "2026-10-14T09:45:14.762588+00:00",
+    "jobs": [
+        {
+            "company": "Bharat Digital (GOI)",
+            "role": "Build For Bharat Fellowship - 2027 Cohort (Design)",
+            "location": "PAN India",
+            "apply_url": "https://forms.gle/YPCdZ9wjREMDajUJA?utm_source=zenyukti&utm_medium=discord",
+            "employment_type": "Internship",
+            "eligibility": "2026, 2027 Batch",
+            "stipend": "₹ 40,000 per month for 6 Months",
+            "deadline": "18 October 2026, 11:59 p.m. IST",
+            "description": "site: https://bharatdigital.org/fellowship",
+            "priority": "Normal",
+            "discovered_at": "2026-10-14T09:45:14.762576Z"
+        }
+    ]
 }
