@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-13T19:54:52.305288+00:00",
+    "updated_at": "2026-10-14T18:06:15.777244+00:00",
     "jobs": [
         {
             "company": "Microsoft",
@@ -40,6 +40,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-26T11:56:09.675931Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - Kernel and Firmware - Silicon Engineering",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/115719346323366598",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-14T18:06:15.549079Z"
         },
         {
             "company": "Google",
