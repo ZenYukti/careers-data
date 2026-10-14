@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-14T09:45:14.762588+00:00",
+    "updated_at": "2026-10-14T13:19:40.765169+00:00",
     "jobs": [
         {
             "company": "Bharat Digital (GOI)",
@@ -14,6 +14,19 @@
             "description": "site: https://bharatdigital.org/fellowship",
             "priority": "Normal",
             "discovered_at": "2026-10-14T09:45:14.762576Z"
+        },
+        {
+            "company": "Apple",
+            "role": "Web Accessibility Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "apply_url": "https://jobs.apple.com/en-us/details/200680624-1052/web-accessibility-engineer?utm_source=zenyukti&utm_medium=discord",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": "₹12–25 LPA, estimated CTC",
+            "deadline": null,
+            "description": "Posted: Oct 09, 2026 | Role Number: 200680624-1052",
+            "priority": "Normal",
+            "discovered_at": "2026-10-14T13:19:40.765160Z"
         }
     ]
 }
