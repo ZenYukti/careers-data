@@ -1,32 +1,5 @@
 {
     "version": 1,
-    "updated_at": "2026-10-21T13:11:52.418229+00:00",
-    "jobs": [
-        {
-            "company": "Josh Talks",
-            "role": "ML / AI Engineer Intern",
-            "location": "Gurgaon, India (OnSite)",
-            "apply_url": "https://www.linkedin.com/jobs/view/4479346795/?utm_source=zenyukti&utm_campaign=zenyuktijobs",
-            "employment_type": "Internship",
-            "eligibility": "2027 Batch",
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-21T12:56:08.399378Z"
-        },
-        {
-            "company": "Rubrik",
-            "role": "ENG Project/ Program - Intern",
-            "location": "Bangalore, India Officeu",
-            "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166514?utm_source=zenyukti&utm_campaign=zenyuktijobs",
-            "employment_type": "Internship",
-            "eligibility": "2027 Batch Students",
-            "stipend": "~ ₹1.5 Lakh per month (expected)",
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-21T13:11:52.418221Z"
-        }
-    ]
+    "updated_at": "2026-10-21T17:44:02.917912+00:00",
+    "jobs": []
 }
