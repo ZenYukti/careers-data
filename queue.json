@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-23T11:11:55.379010+00:00",
+    "updated_at": "2026-10-23T11:14:57.015028+00:00",
     "jobs": [
         {
             "company": "Amazon",
@@ -14,6 +14,19 @@
             "description": "Amazon internships are full-time (40 hrs/week) for 24 - 26 consecutive weeks (6 months) with start dates between Jan - Jun 2027",
             "priority": "High",
             "discovered_at": "2026-10-23T11:11:55.378998Z"
+        },
+        {
+            "company": "CoinSwitch",
+            "role": "Software Engineering Intern",
+            "location": "Bangalore, India",
+            "apply_url": "https://peepalco.keka.com/careers/jobdetails/92951?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "Internship",
+            "eligibility": "2027 Graduates Only",
+            "stipend": "₹ 80,000 PM or more",
+            "deadline": null,
+            "description": "Share with your network as well!",
+            "priority": "Normal",
+            "discovered_at": "2026-10-23T11:14:57.015022Z"
         }
     ]
 }
