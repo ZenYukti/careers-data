@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-22T18:08:40.124254+00:00",
-    "jobs": []
+    "updated_at": "2026-10-23T11:11:55.379010+00:00",
+    "jobs": [
+        {
+            "company": "Amazon",
+            "role": "SDE I Intern",
+            "location": "PAN India, Onsite",
+            "apply_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "Internship",
+            "eligibility": "2027 Graduates Only",
+            "stipend": "1.1 Lakhs per month",
+            "deadline": null,
+            "description": "Amazon internships are full-time (40 hrs/week) for 24 - 26 consecutive weeks (6 months) with start dates between Jan - Jun 2027",
+            "priority": "High",
+            "discovered_at": "2026-10-23T11:11:55.378998Z"
+        }
+    ]
 }
