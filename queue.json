@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-23T17:57:11.551829+00:00",
-    "jobs": []
+    "updated_at": "2026-10-25T09:34:52.780266+00:00",
+    "jobs": [
+        {
+            "company": "Honeywell",
+            "role": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160492?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "Internship",
+            "eligibility": "Job Identification: 160492",
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-25T09:34:52.780252Z"
+        }
+    ]
 }
