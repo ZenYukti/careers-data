@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-25T17:12:01.091351+00:00",
-    "jobs": []
+    "updated_at": "2026-10-27T14:20:42.137464+00:00",
+    "jobs": [
+        {
+            "company": "GeeksforGeeks",
+            "role": "DSA Content Engineer Intern",
+            "location": "Noida, Uttar Pradesh",
+            "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScuNlKjliokNzNnKhmEaksfei6m7yEgsOe61YoBjxk9IxOObQ/viewform?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "Internship",
+            "eligibility": "2026, 2027 Batch",
+            "stipend": "₹25,000/month (expected)",
+            "deadline": null,
+            "description": "Must apply if you are good at DSA & problem solving.",
+            "priority": "High",
+            "discovered_at": "2026-10-27T14:20:42.137452Z"
+        }
+    ]
 }
