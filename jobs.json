@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-23T17:55:01.971831+00:00",
+    "updated_at": "2026-10-28T10:44:30.612537+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -27,19 +27,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-07-26T11:56:09.675931Z"
-        },
-        {
-            "company": "Microsoft",
-            "role": "Software Engineering IC2",
-            "location": "Hyderabad, India",
-            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557016585",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-16T17:34:46.076861Z"
         },
         {
             "company": "Google",
@@ -224,19 +211,6 @@
             "discovered_at": "2026-09-09T17:12:29.427490Z"
         },
         {
-            "company": "Amazon",
-            "role": "Software Dev Engineer I - L4 FTC - IESP Merchant Tech",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10531567/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-09-16T17:40:15.828428Z"
-        },
-        {
             "company": "Google",
             "role": "Software Engineer II - Corp Eng",
             "location": "Hyderabad, India",
@@ -326,6 +300,45 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-09-21T18:50:46.552212Z"
+        },
+        {
+            "company": "Pramaana Labs",
+            "role": "Research Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "apply_url": "https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true",
+            "employment_type": "Internship",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-28T10:44:30.593676Z"
+        },
+        {
+            "company": "Certa",
+            "role": "Frontend Engineer Intern",
+            "location": "Remote in India",
+            "apply_url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true",
+            "employment_type": "Internship",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-28T10:44:30.593714Z"
+        },
+        {
+            "company": "Certa",
+            "role": "Frontend Engineer Intern",
+            "location": "Jaipur, Rajasthan, India",
+            "apply_url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true",
+            "employment_type": "Internship",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-28T10:44:30.593720Z"
         }
     ]
 }
