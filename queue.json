@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-31T15:23:20.892503+00:00",
+    "updated_at": "2026-10-31T15:25:50.657483+00:00",
     "jobs": [
         {
             "company": "Amazon",
@@ -14,6 +14,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-10-31T15:23:20.892490Z"
+        },
+        {
+            "company": "Salesforce",
+            "role": "Software Engineering AMTS",
+            "location": "India - Bangalore, Hyderabad",
+            "apply_url": "https://www.salesforce.com/company/careers/jobs/JR307116/software-engineering-amts/?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "New Grad",
+            "eligibility": "2025, 2026 Batch",
+            "stipend": "40+ LPA CTC expected",
+            "deadline": null,
+            "description": "JR307116 | Posted 30 October 2026",
+            "priority": "Normal",
+            "discovered_at": "2026-10-31T15:25:50.657474Z"
         }
     ]
 }
