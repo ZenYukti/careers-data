@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-27T18:55:42.696033+00:00",
-    "jobs": []
+    "updated_at": "2026-10-31T15:23:20.892503+00:00",
+    "jobs": [
+        {
+            "company": "Amazon",
+            "role": "Software Dev Engineer I, Amazon University Talent Acquisition",
+            "location": "Bengaluru/Hyderabad/Chennai, India",
+            "apply_url": "https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "New Grad",
+            "eligibility": "2026 Batch",
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-31T15:23:20.892490Z"
+        }
+    ]
 }
