@@ -1,5 +1,19 @@
 {
     "version": 1,
-    "updated_at": "2026-10-31T17:54:46.733957+00:00",
-    "jobs": []
+    "updated_at": "2026-11-02T15:09:05.544634+00:00",
+    "jobs": [
+        {
+            "company": "Rubrik",
+            "role": "Software Engineer- SaaS O365 (SDE-I)",
+            "location": "Bangalore, India Office",
+            "apply_url": "https://www.rubrik.com/company/careers/departments/job.8256407?utm_source=zenyukti&utm_campaign=zenyuktijobs",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": "Job ID: 8256407",
+            "priority": "Normal",
+            "discovered_at": "2026-11-02T15:09:05.544624Z"
+        }
+    ]
 }
