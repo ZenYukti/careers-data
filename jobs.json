@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-10-30T18:42:10.205136+00:00",
+    "updated_at": "2026-11-03T20:12:36.231970+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -30,16 +30,16 @@
         },
         {
             "company": "Google",
-            "role": "Software Engineer - Full Stack",
+            "role": "Software Engineer - Security - Privacy - Detection",
             "location": "Hyderabad, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/126573622838862534",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/118745886028112582",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-10-30T18:42:09.930935Z"
+            "discovered_at": "2026-11-03T20:12:35.953436Z"
         },
         {
             "company": "Stripe",
@@ -53,32 +53,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-10-29T19:04:46.580264Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Development Engineer I",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10580013/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-16T17:34:46.076909Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Development Engineer I FTC",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10580010/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-16T17:34:46.076896Z"
         },
         {
             "company": "Amazon",
@@ -97,14 +71,14 @@
             "company": "Amazon",
             "role": "Software Development Engineer I",
             "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10580011/apply",
+            "apply_url": "https://www.amazon.jobs/jobs/10580014/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-10-16T17:34:46.076905Z"
+            "discovered_at": "2026-10-16T17:34:46.076901Z"
         },
         {
             "company": "Amazon",
@@ -121,16 +95,42 @@
         },
         {
             "company": "Amazon",
-            "role": "Software Development Engineer I",
+            "role": "Software Development Engineer I FTC",
             "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10580014/apply",
+            "apply_url": "https://www.amazon.jobs/jobs/10580010/apply",
             "employment_type": "Full-time",
             "eligibility": null,
             "stipend": null,
             "deadline": null,
             "description": null,
             "priority": "Normal",
-            "discovered_at": "2026-10-16T17:34:46.076901Z"
+            "discovered_at": "2026-10-16T17:34:46.076896Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Development Engineer I",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10580013/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-16T17:34:46.076909Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Development Engineer I",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10580011/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-10-16T17:34:46.076905Z"
         },
         {
             "company": "Google",
@@ -157,19 +157,6 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-10-23T17:55:01.734605Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Front-End Engineer II",
-            "location": "Bengaluru, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10575321/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-10-10T17:55:41.560031Z"
         },
         {
             "company": "Amazon",
