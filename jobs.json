@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-05T13:27:51.550142+00:00",
+    "updated_at": "2026-11-05T20:49:53.824627+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2224,6 +2224,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-05T13:27:15.455256Z"
+        },
+        {
+            "company": "Sophos",
+            "role": "Site Reliability Engineer /Cloud",
+            "location": "India",
+            "apply_url": "https://jobs.lever.co/sophos/97f645e5-3400-40a9-b161-9980b2915289",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-05T20:49:15.015344Z"
         }
     ]
 }
