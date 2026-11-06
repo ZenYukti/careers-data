@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-05T20:49:53.824627+00:00",
+    "updated_at": "2026-11-06T12:25:17.444493+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2237,6 +2237,84 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-05T20:49:15.015344Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Automation Engineer",
+            "location": "India - Bengaluru; India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8333222",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T12:21:29.277871Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Full Stack Developer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8336309",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T12:21:29.278950Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Full Stack Developer",
+            "location": "India - Bengaluru",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8333208",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T12:21:29.278954Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Salesforce Developer",
+            "location": "India - Bengaluru",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8348693",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T12:21:29.280406Z"
+        },
+        {
+            "company": "Guidepoint",
+            "role": "Data Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "apply_url": "https://job-boards.greenhouse.io/guidepoint/jobs/8932703002",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T12:21:41.767974Z"
+        },
+        {
+            "company": "Sophos",
+            "role": "Software Engineer 1 (Java Developer)",
+            "location": "India",
+            "apply_url": "https://jobs.lever.co/sophos/d196359a-0eb8-4991-93c3-6a92da22b919",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T12:24:25.487912Z"
         }
     ]
 }
