@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-06T12:25:17.444493+00:00",
+    "updated_at": "2026-11-06T20:06:13.573674+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2315,6 +2315,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-06T12:24:25.487912Z"
+        },
+        {
+            "company": "Niural",
+            "role": "Implementation Data Analyst",
+            "location": "India",
+            "apply_url": "https://jobs.ashbyhq.com/Niural/381e81e0-fea2-46e3-bef1-9335ddfc07e9/application",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-06T20:00:38.777941Z"
         }
     ]
 }
