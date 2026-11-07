@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-06T20:06:13.573674+00:00",
+    "updated_at": "2026-11-07T11:18:26.142347+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2328,6 +2328,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-06T20:00:38.777941Z"
+        },
+        {
+            "company": "Aero Technology",
+            "role": "Developer Support Engineer",
+            "location": "Pune, India",
+            "apply_url": "https://jobs.lever.co/aeratechnology/276feffb-4ea8-4d17-a866-39e1c088b672",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-07T11:15:56.865931Z"
         }
     ]
 }
