@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-08T11:29:44.505831+00:00",
+    "updated_at": "2026-11-08T18:28:53.233812+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2575,6 +2575,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-08T11:28:35.219204Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - Payments",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/143561253581660870",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-08T18:25:02.431085Z"
         }
     ]
 }
