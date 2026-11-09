@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-08T18:28:53.233812+00:00",
+    "updated_at": "2026-11-09T13:19:23.750681+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2588,6 +2588,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-08T18:25:02.431085Z"
+        },
+        {
+            "company": "Capco",
+            "role": ".NET - Fullstack",
+            "location": "India - Bengaluru",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8317891",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-09T13:13:44.531625Z"
         }
     ]
 }
