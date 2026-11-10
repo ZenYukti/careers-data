@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-09T13:19:23.750681+00:00",
+    "updated_at": "2026-11-10T12:57:20.306190+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2601,6 +2601,71 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-09T13:13:44.531625Z"
+        },
+        {
+            "company": "Capco",
+            "role": "AI Engineer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8078812",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-10T12:53:22.909261Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Sr IOS Developer - Vadodara",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8229946",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-10T12:53:22.912442Z"
+        },
+        {
+            "company": "GitLab",
+            "role": "Site Reliability Engineer, Cells Infrastructure",
+            "location": "Bangalore, India",
+            "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-10T12:53:33.288622Z"
+        },
+        {
+            "company": "Coupa",
+            "role": "AI Engineer - 11967",
+            "location": "Pune, India",
+            "apply_url": "https://jobs.lever.co/coupa/7b93f224-46af-4399-ba5c-37a6ad04041d",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-10T12:55:00.420958Z"
+        },
+        {
+            "company": "Coupa",
+            "role": "AI Engineer - P",
+            "location": "Pune, India",
+            "apply_url": "https://jobs.lever.co/coupa/0d055227-841e-4268-86ac-894beaee23de",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-10T12:55:00.420962Z"
         }
     ]
 }
