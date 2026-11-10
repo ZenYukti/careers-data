@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-10T12:57:20.306190+00:00",
+    "updated_at": "2026-11-10T20:36:01.311257+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2666,6 +2666,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-10T12:55:00.420962Z"
+        },
+        {
+            "company": "ThinkAhead",
+            "role": "Engineer - Salesforce",
+            "location": "India",
+            "apply_url": "https://jobs.lever.co/thinkahead/5d265b59-fb4f-48f7-844c-cb68e4962bd5",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-10T20:35:44.536742Z"
         }
     ]
 }
