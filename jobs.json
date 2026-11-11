@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-10T20:36:01.311257+00:00",
+    "updated_at": "2026-11-11T12:07:28.553400+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2679,6 +2679,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-10T20:35:44.536742Z"
+        },
+        {
+            "company": "Aero Technology",
+            "role": "Associate Data Scientist – Modeling, Analytics & Pipelines",
+            "location": "Pune, India",
+            "apply_url": "https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-11T12:03:12.162551Z"
         }
     ]
 }
