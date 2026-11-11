@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-11T12:07:28.553400+00:00",
+    "updated_at": "2026-11-11T20:23:03.692797+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2692,6 +2692,58 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-11T12:03:12.162551Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Front End Engineer II",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10595616/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-11T20:17:28.312200Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - AI/ML - PhD - Early Career - 2026",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/127602843300307654",
+            "employment_type": "New Grad",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-11T20:17:28.312381Z"
+        },
+        {
+            "company": "Google",
+            "role": "Software Engineer - PhD - Early Career - 2026",
+            "location": "Bengaluru, India",
+            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/120415858164933318",
+            "employment_type": "New Grad",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-11T20:17:28.312394Z"
+        },
+        {
+            "company": "Firemon",
+            "role": "Network Security Engineer",
+            "location": "India, Remote",
+            "apply_url": "https://jobs.lever.co/firemon/9fdece86-1968-4a4d-b622-ab53597514ae",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-11T20:19:45.483436Z"
         }
     ]
 }
