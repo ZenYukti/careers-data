@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-11T20:23:03.692797+00:00",
+    "updated_at": "2026-11-12T13:11:08.577023+00:00",
     "jobs": [
         {
             "company": "Google",
@@ -2744,6 +2744,71 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-11T20:19:45.483436Z"
+        },
+        {
+            "company": "Encord",
+            "role": "DevOps Engineer",
+            "location": "India",
+            "apply_url": "https://jobs.ashbyhq.com/encord/981b62f9-8321-4001-bff8-2254b6891885/application",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-12T13:05:23.167498Z"
+        },
+        {
+            "company": "Capco",
+            "role": "AI Engineer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8146628",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-12T13:05:49.400648Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Data Engineer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8333351",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-12T13:05:49.402482Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Sr Data Engineer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8333344",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-12T13:05:49.404561Z"
+        },
+        {
+            "company": "DevRev",
+            "role": "Solution Engineer : Bangalore",
+            "location": "Bangalore, India",
+            "apply_url": "https://job-boards.greenhouse.io/devrev/jobs/6166569004",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-12T13:05:55.228352Z"
         }
     ]
 }
