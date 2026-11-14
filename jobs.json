@@ -1,20 +1,7 @@
 {
     "version": 1,
-    "updated_at": "2026-11-13T20:38:35.699679+00:00",
+    "updated_at": "2026-11-14T11:43:34.555648+00:00",
     "jobs": [
-        {
-            "company": "Aero Technology",
-            "role": "Developer Support Engineer",
-            "location": "Pune, India",
-            "apply_url": "https://jobs.lever.co/aeratechnology/276feffb-4ea8-4d17-a866-39e1c088b672",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-07T11:15:56.865931Z"
-        },
         {
             "company": "Amazon",
             "role": "Software Development Engineer I",
@@ -2705,6 +2692,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-13T20:34:47.093541Z"
+        },
+        {
+            "company": "Aero Technology",
+            "role": "Developer Support Engineer (Night Shift)",
+            "location": "Pune, India",
+            "apply_url": "https://jobs.lever.co/aeratechnology/276feffb-4ea8-4d17-a866-39e1c088b672",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-14T11:41:48.601813Z"
         }
     ]
 }
