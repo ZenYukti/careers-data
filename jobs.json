@@ -1,20 +1,7 @@
 {
     "version": 1,
-    "updated_at": "2026-11-15T12:13:06.904799+00:00",
+    "updated_at": "2026-11-15T19:28:12.164499+00:00",
     "jobs": [
-        {
-            "company": "Google",
-            "role": "Software Engineer - Payments",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.google.com/about/careers/applications/jobs/results/143561253581660870",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-08T18:25:02.431085Z"
-        },
         {
             "company": "Capco",
             "role": ".NET - Fullstack",
@@ -2510,6 +2497,19 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-15T12:10:57.164046Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Java Backend Developer - Vadodara/ Pune",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8230093",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-15T19:26:20.965660Z"
         }
     ]
 }
