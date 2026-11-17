@@ -1,20 +1,7 @@
 {
     "version": 1,
-    "updated_at": "2026-11-17T13:49:42.568236+00:00",
+    "updated_at": "2026-11-17T21:55:52.761849+00:00",
     "jobs": [
-        {
-            "company": "ThinkAhead",
-            "role": "Engineer - Salesforce",
-            "location": "India",
-            "apply_url": "https://jobs.lever.co/thinkahead/5d265b59-fb4f-48f7-844c-cb68e4962bd5",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-10T20:35:44.536742Z"
-        },
         {
             "company": "Aero Technology",
             "role": "Associate Data Scientist – Modeling, Analytics & Pipelines",
@@ -2601,6 +2588,45 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-17T13:46:44.595448Z"
+        },
+        {
+            "company": "Apple",
+            "role": "Junior Fullstack Engineer - ETS",
+            "location": "Hyderabad, India",
+            "apply_url": "https://jobs.apple.com/en-us/details/200694892-1052",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-17T21:50:39.438956Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Backend Engineer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8345835",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-17T21:51:02.306114Z"
+        },
+        {
+            "company": "ThinkAhead",
+            "role": "Engineer - Salesforce",
+            "location": "India",
+            "apply_url": "https://jobs.lever.co/thinkahead/5d265b59-fb4f-48f7-844c-cb68e4962bd5",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-17T21:55:02.633803Z"
         }
     ]
 }
