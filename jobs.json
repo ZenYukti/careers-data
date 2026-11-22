@@ -1,20 +1,7 @@
 {
     "version": 1,
-    "updated_at": "2026-11-22T12:49:29.315536+00:00",
+    "updated_at": "2026-11-22T20:28:11.476077+00:00",
     "jobs": [
-        {
-            "company": "Capco",
-            "role": "Java Backend Developer - Vadodara/ Pune",
-            "location": "India - Pune",
-            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8230093",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-15T19:26:20.965660Z"
-        },
         {
             "company": "OpenGov",
             "role": "Software Engineer II",
@@ -2497,6 +2484,32 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-22T12:48:26.070686Z"
+        },
+        {
+            "company": "Apple",
+            "role": "Software Engineer - AI & Data Platforms",
+            "location": "Hyderabad, India",
+            "apply_url": "https://jobs.apple.com/en-us/details/200696143-1052",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-22T20:25:21.139931Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Java Backend Developer - Vadodara/ Pune",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8230093",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-22T20:25:53.891633Z"
         }
     ]
 }
