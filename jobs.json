@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-23T07:05:17.945801+00:00",
+    "updated_at": "2026-11-23T15:17:53.532611+00:00",
     "jobs": [
         {
             "company": "OpenGov",
@@ -2510,6 +2510,45 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-22T20:25:53.891633Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Platform & DevOps Engineer",
+            "location": "India - Bengaluru",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8405591",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-23T15:10:26.275465Z"
+        },
+        {
+            "company": "Commvault",
+            "role": "Engineer- Dev",
+            "location": "Bangalore, India; Hyderbad, India",
+            "apply_url": "https://job-boards.greenhouse.io/commvault/jobs/5455201008",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-23T15:10:29.254167Z"
+        },
+        {
+            "company": "Commvault",
+            "role": "Software Engineer (AI with Gen AI)",
+            "location": "Bangalore, India; Hyderbad, India; Pune, India",
+            "apply_url": "https://job-boards.greenhouse.io/commvault/jobs/5425593008",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-23T15:10:29.254334Z"
         }
     ]
 }
