@@ -1,46 +1,7 @@
 {
     "version": 1,
-    "updated_at": "2026-11-24T15:14:54.187776+00:00",
+    "updated_at": "2026-11-24T23:14:17.469454+00:00",
     "jobs": [
-        {
-            "company": "Apple",
-            "role": "Junior Fullstack Engineer - ETS",
-            "location": "Hyderabad, India",
-            "apply_url": "https://jobs.apple.com/en-us/details/200694892-1052",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-17T21:50:39.438956Z"
-        },
-        {
-            "company": "Capco",
-            "role": "Backend Engineer",
-            "location": "India - Pune",
-            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8345835",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-17T21:51:02.306114Z"
-        },
-        {
-            "company": "ThinkAhead",
-            "role": "Engineer - Salesforce",
-            "location": "India",
-            "apply_url": "https://jobs.lever.co/thinkahead/5d265b59-fb4f-48f7-844c-cb68e4962bd5",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-17T21:55:02.633803Z"
-        },
         {
             "company": "Amazon",
             "role": "Software Dev Engineer I - L4",
@@ -2536,6 +2497,58 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-24T15:08:57.260583Z"
+        },
+        {
+            "company": "Apple",
+            "role": "Junior Fullstack Engineer - ETS",
+            "location": "Hyderabad, India",
+            "apply_url": "https://jobs.apple.com/en-us/details/200694892-1052",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-24T23:10:31.301219Z"
+        },
+        {
+            "company": "Ivanti",
+            "role": "Site Reliability Engineer (Night Shift, 1:30am to 10:30am IST)",
+            "location": "Hyderabad, India - Remote",
+            "apply_url": "https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8204691003",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-24T23:10:59.997141Z"
+        },
+        {
+            "company": "Capco",
+            "role": "Backend Engineer",
+            "location": "India - Pune",
+            "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8345835",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-24T23:11:25.973337Z"
+        },
+        {
+            "company": "ThinkAhead",
+            "role": "Engineer - Salesforce",
+            "location": "India",
+            "apply_url": "https://jobs.lever.co/thinkahead/5d265b59-fb4f-48f7-844c-cb68e4962bd5",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-24T23:14:12.547468Z"
         }
     ]
 }
