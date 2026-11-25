@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-11-24T23:14:17.469454+00:00",
+    "updated_at": "2026-11-25T14:53:17.465874+00:00",
     "jobs": [
         {
             "company": "Amazon",
@@ -2549,6 +2549,32 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-24T23:14:12.547468Z"
+        },
+        {
+            "company": "Aero Technology",
+            "role": "Associate Developer Support Engineer",
+            "location": "Pune, India",
+            "apply_url": "https://jobs.lever.co/aeratechnology/df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-25T14:49:27.339853Z"
+        },
+        {
+            "company": "Saviynt",
+            "role": "Technical Support Engineer -",
+            "location": "Bengaluru, India",
+            "apply_url": "https://jobs.lever.co/saviynt/ca1c552d-692f-4c71-8bca-be4e0ae312a5",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-25T14:52:40.744446Z"
         }
     ]
 }
