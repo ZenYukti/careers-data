@@ -1,59 +1,7 @@
 {
     "version": 1,
-    "updated_at": "2026-11-27T14:14:46.414293+00:00",
+    "updated_at": "2026-11-27T22:15:29.458559+00:00",
     "jobs": [
-        {
-            "company": "Stripe",
-            "role": "Software Engineer - New Grad",
-            "location": "Bengaluru, India",
-            "apply_url": "https://stripe.com/jobs/search?gh_jid=8130876",
-            "employment_type": "New Grad",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-20T21:24:10.103890Z"
-        },
-        {
-            "company": "Amazon",
-            "role": "Software Development Engineer I",
-            "location": "Hyderabad, India",
-            "apply_url": "https://www.amazon.jobs/jobs/10580013/apply",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-20T21:24:10.103934Z"
-        },
-        {
-            "company": "Apple",
-            "role": "Junior Software Development Engineer in Test - Retail Engineering - IS&T",
-            "location": "Bengaluru, India",
-            "apply_url": "https://jobs.apple.com/en-us/details/200682312-0321",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-20T21:24:10.103960Z"
-        },
-        {
-            "company": "Niural",
-            "role": "Implementation Data Analyst",
-            "location": "India",
-            "apply_url": "https://jobs.ashbyhq.com/Niural/381e81e0-fea2-46e3-bef1-9335ddfc07e9/application",
-            "employment_type": "Full-time",
-            "eligibility": null,
-            "stipend": null,
-            "deadline": null,
-            "description": null,
-            "priority": "Normal",
-            "discovered_at": "2026-11-20T21:24:18.956905Z"
-        },
         {
             "company": "Aero Technology",
             "role": "Developer Support Engineer (Night Shift)",
@@ -2445,6 +2393,58 @@
             "description": null,
             "priority": "Normal",
             "discovered_at": "2026-11-27T14:14:38.011208Z"
+        },
+        {
+            "company": "Microsoft",
+            "role": "Software Engineering",
+            "location": "India",
+            "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557050388",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-27T22:12:12.530567Z"
+        },
+        {
+            "company": "Amazon",
+            "role": "Software Development Engineer I",
+            "location": "Hyderabad, India",
+            "apply_url": "https://www.amazon.jobs/jobs/10580013/apply",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-27T22:12:12.530601Z"
+        },
+        {
+            "company": "Apple",
+            "role": "Junior Software Development Engineer in Test - Retail Engineering - IS&T",
+            "location": "Bengaluru, India",
+            "apply_url": "https://jobs.apple.com/en-us/details/200682312-0321",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-27T22:12:12.530628Z"
+        },
+        {
+            "company": "Niural",
+            "role": "Implementation Data Analyst",
+            "location": "India",
+            "apply_url": "https://jobs.ashbyhq.com/Niural/381e81e0-fea2-46e3-bef1-9335ddfc07e9/application",
+            "employment_type": "Full-time",
+            "eligibility": null,
+            "stipend": null,
+            "deadline": null,
+            "description": null,
+            "priority": "Normal",
+            "discovered_at": "2026-11-27T22:12:35.676319Z"
         }
     ]
 }
